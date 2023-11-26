@@ -9,8 +9,8 @@ sudo apt-get install -y libz-dev
 sudo apt-get install -y luarocks
 sudo apt-get install -y liblua5.2-dev
 sudo luarocks install -y luasocket
-sudo pip3 install -y aiohttp
-sudo pip3 install -y asyncio
+sudo pip3 install aiohttp
+sudo pip3 install asyncio
 sudo apt install -y nodejs
 sudo apt install -y npm
 python3 scripts/init_social_graph.py --graph=socfb-Reed98
