@@ -1,3 +1,5 @@
+#!/bin/bash
+g5k-setup-docker -t
 cd socialNetwork/
 git pull
 #git checkout test
