@@ -1,4 +1,4 @@
-cd Continuum/socialNetwork/
+cd socialNetwork/
 git pull
 #git checkout test
 docker-compose up -d
